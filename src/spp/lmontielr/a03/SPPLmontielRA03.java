@@ -8,7 +8,7 @@ package spp.lmontielr.a03;
 import java.util.*;
 /**
  *Este programa sirve para sacar la hipotenusa dados los dos catetos 
- * @author JorgeRicardo
+ * @author monti
  */
 public class SPPLmontielRA03{
 
